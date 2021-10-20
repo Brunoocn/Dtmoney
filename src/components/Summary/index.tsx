@@ -1,21 +1,13 @@
 import { useTransactions } from "../../hooks/useTransactions";
 
-import incomeImage from "../../assets/income.svg";
-import outcomeImage from "../../assets/outcome.svg";
+import incomeImage from "../../assets/income.png";
+import outcomeImage from "../../assets/outcome.png";
 import totalImage from "../../assets/total.svg";
 
 import { Container } from "./styles";
 
 export function Summary() {
   const { transactions } = useTransactions();
-
-  // const totalDeposits = transactions.reduce((acc, transaction) => {
-  //   if(transaction.type === 'deposit') {
-  //     return acc + transaction.amount;
-  //   }
-
-  //   return acc
-  // }, 0)
 
   const summary = transactions.reduce(
     (acc, transaction) => {

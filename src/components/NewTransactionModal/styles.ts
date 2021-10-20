@@ -33,7 +33,7 @@ export const Container = styled.form`
     width: 100%;
     padding: 0 1.5rem;
     height: 4rem;
-    background: var(--green);
+    background: var(--strong-purple);
     color: #fff;
     border-radius: 0.25rem;
     border: 0;
@@ -57,11 +57,11 @@ export const TransactionTypeContainer = styled.div`
 
 interface RadioBoxProps {
   isActive: boolean;
-  activeColor: 'green' | 'red';
+  activeColor: 'purple' | 'red';
 }
 
 const colors = {
-  green: '#33CC95',
+  purple: '#9C44DC',
   red: '#e52e4d'
 };
 
