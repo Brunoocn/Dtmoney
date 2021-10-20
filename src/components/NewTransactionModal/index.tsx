@@ -4,8 +4,8 @@ import { useTransactions } from "../../hooks/useTransactions";
 
 
 import closeImg from "../../assets/close.svg";
-import incomeImg from "../../assets/income.svg";
-import outcomeImg from "../../assets/outcome.svg";
+import incomeImg from "../../assets/income.png";
+import outcomeImg from "../../assets/outcome.png";
 
 import { Container, TransactionTypeContainer, RadioBox } from "./styles";
 interface NewTransacationModalProps {
@@ -78,7 +78,7 @@ export function NewTransactionModal({
               setType("deposit");
             }}
             isActive={type === "deposit"}
-            activeColor="green"
+            activeColor="purple"
           >
             <img src={incomeImg} alt="Entrada" />
             <span>Entrada</span>
