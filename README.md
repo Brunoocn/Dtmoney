@@ -20,9 +20,13 @@ This project was developed with the following technologies:
 - [Axios](https://github.com/axios/axios)
 - [Polished](https://polished.js.org/)
 
+<br />
+
 ## 💻 Project
 
 DtFinance is a financial control system developed in rocketseat's Ignite bootcamp.
+
+<br />
 
 ## ✈️ Installation and use
 
@@ -37,6 +41,8 @@ yarn install
 # Run the aplicattion 
 yarn start
 ```
+
+<br />
 
 ## 🔖 Layout
 
