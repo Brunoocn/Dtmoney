@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="/assets/logo.png" width="250px"/>
+  <img src="src/assets/logo.png" width="250px"/>
 </h1>
 
 <br>
 
 <p align="center">
-  <img src="/assets/github.png" width="100%"/>
+  <img src="src/assets/github.png" width="100%"/>
 </p>
 
 ## ✨ Tecnologias
