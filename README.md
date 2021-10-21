@@ -24,8 +24,6 @@ This project was developed with the following technologies:
 
 DtFinance is a financial control system developed in rocketseat's Ignite bootcamp.
 
-<br>
-
 ## ✈️ Installation and use
 
 ```bash
@@ -39,8 +37,6 @@ yarn install
 # Run the aplicattion 
 yarn start
 ```
-
-<br>
 
 ## 🔖 Layout
 
