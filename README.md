@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="src/assets/logo.png" width="250px"/>
 </h1>
@@ -8,7 +9,7 @@
   <img src="src/assets/github.png" width="100%"/>
 </p>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
 This project was developed with the following technologies:
 
