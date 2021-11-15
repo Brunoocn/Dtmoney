@@ -34,7 +34,7 @@ DtFinance is a financial control system developed in rocketseat's Ignite bootcam
 
 ```bash
 # Open a terminal and copy this repository with the command
-git clone https://github.com/martins-rafael/dtmoney.git
+git clone https://github.com/Brunoocn/Dtmoney.git
 # or use the download option.
 # Open the folder with 
 cd dtmoney
